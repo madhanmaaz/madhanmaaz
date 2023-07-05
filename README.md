@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://madhan.glitch.me
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## Programming Languages
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+          
+
