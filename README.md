@@ -6,14 +6,11 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on
 - 🌱 I’m currently learning bug bounty
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with
 - 💬 Ask me about bug bounty/Ehacking
 - 📫 How to reach me: https://madhan.glitch.me
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: hacker
+- ⚡ Fun fact: hack the world
 
 ## Programming Languages
 <p>
