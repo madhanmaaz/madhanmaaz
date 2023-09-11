@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about bug bounty/Ehacking
 - 📫 How to reach me: https://madhanmaaz.netlify.app
 - 😄 Pronouns: hacker
-- ⚡ Fun fact: hack the world
+- ⚡ Fun fact: hack the universe
 
 ## Programming Languages
 <p>
