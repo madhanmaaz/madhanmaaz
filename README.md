@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning bug bounty
 - 💬 Ask me about bug bounty/Ehacking
-- 📫 How to reach me: https://madhan.glitch.me
+- 📫 How to reach me: https://madhanmaaz.netlify.app
 - 😄 Pronouns: hacker
 - ⚡ Fun fact: hack the world
 
