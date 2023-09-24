@@ -53,7 +53,7 @@ discoveries, and expertise with you.
         </td>
     </tr>
     <tr>
-        <th>Jvascript</th>
+        <th>Javascript</th>
         <th>Python</th>
         <th>Golang</th>
         <th>Php</th>
