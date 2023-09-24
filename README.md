@@ -218,7 +218,7 @@ discoveries, and expertise with you.
         <th>Docker</th>
         <th>Git</th>
         <th>Bash</th>
-        <th>Lunix</th>
+        <th>Linux</th>
     </tr>
 </table>
 
