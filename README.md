@@ -8,7 +8,7 @@
 ### 🔐 Who Am I?
 - I'm Madhan, an ethical hacker and cybersecurity enthusiast, committed to making the internet a safer place for all. With a passion for unraveling the mysteries of cyber threats and vulnerabilities, I'm here to share my insights, discoveries, and expertise with you.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhanmaaz&layout=compact)
+
 
 ### Programming Languages
 <p>
@@ -77,3 +77,5 @@ style="width: 50px;height: 50px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="width: 50px;height: 50px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  style="width: 50px;height: 50px;"/>
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhanmaaz&layout=compact)
