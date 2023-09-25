@@ -10,9 +10,8 @@
 With a passion for unraveling the mysteries of cyber threats and vulnerabilities, I'm here to share my insights,
 discoveries, and expertise with you.
 
-
-
 ### Programming Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhanmaaz&layout=compact&langs_count=20)
 <table>
     <tr>
         <td>
@@ -221,7 +220,3 @@ discoveries, and expertise with you.
         <th>Linux</th>
     </tr>
 </table>
-
-<p></p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhanmaaz&layout=donut&langs_count=20)
