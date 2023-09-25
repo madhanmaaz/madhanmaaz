@@ -64,6 +64,25 @@ discoveries, and expertise with you.
     </tr>
 </table>
 
+### Mobile Development
+
+<table>
+    <tr>
+        <td>
+             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
+                style="width: 50px;height: 50px;" />
+        </td>
+        <td>
+             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+                style="width: 50px;height: 50px;" />
+        </td>
+    </tr>
+    <tr>
+         <th>Flutter</th>
+        <th>React Native</th>
+    </tr>
+</table>
+
 ### Front-End Development
 <table>
     <tr>
@@ -124,6 +143,9 @@ discoveries, and expertise with you.
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg"
                 style="width: 50px;height: 50px;" />
         </td>
+         <td>
+           <b><%- ejs %></b>
+        </td>
     </tr>
     <tr>
         <th>Nodejs</th>
@@ -132,6 +154,7 @@ discoveries, and expertise with you.
         <th>Express</th>
         <th>Django</th>
         <th>Flask</th>
+        <th>Ejs</th>
     </tr>
 </table>
 
