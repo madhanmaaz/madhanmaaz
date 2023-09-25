@@ -224,4 +224,4 @@ discoveries, and expertise with you.
 
 <p></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhanmaaz&layout=compact&langs_count=20)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhanmaaz&layout=donut&langs_count=20)
