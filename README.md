@@ -62,9 +62,6 @@ discoveries, and expertise with you.
         <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width=50 height=50/>
         </td>
-        <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" width=50 height=50/>
-        </td>
     </tr>
     <tr>
         <th>Javascript</th>
@@ -79,7 +76,6 @@ discoveries, and expertise with you.
         <th>TS</th>
         <th>Swift</th>
         <th>Rust</th>
-        <th>Perl</th>
     </tr>
 </table>
 
@@ -157,12 +153,6 @@ discoveries, and expertise with you.
            <img src="https://ejs.co/favicon.svg">
         </td>
         <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" />
-        </td>
-        <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
-        </td>
-        <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width=50 height=50/>
         </td>
     </tr>
@@ -176,8 +166,6 @@ discoveries, and expertise with you.
         <th>FastAPI</th>
         <th>GraphQL</th>
         <th>Ejs</th>
-        <th>Handlebars</th>
-        <th>Nginx</th>
         <th>Socket.IO</th>
     </tr>
 </table>
