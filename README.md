@@ -1,3 +1,5 @@
+<img src="./pro-banner.gif" align="right" width=300>
+
 ### Hi there 👋
 - 🌱 I’m currently learning bug bounty
 - 💬 Ask me about bug bounty / hacking
@@ -10,101 +12,102 @@
 With a passion for unraveling the mysteries of cyber threats and vulnerabilities, I'm here to share my insights,
 discoveries, and expertise with you.
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhanmaaz&layout=compact&langs_count=20">
+
 ### Programming Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhanmaaz&layout=compact&langs_count=20)
-<table>
+<table style="text-align: center;">
     <tr>
         <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-                style="width: 50px;height: 50px;" />
+                width=50 height=50 />
         </td>
         <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-                style="width: 50px;height: 50px;" />
+                width=50 height=50 />
         </td>
         <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"
-                style="width: 50px;height: 50px;" />
+                width=50 height=50 />
+        </td>
+         <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+                width=50 height=50 />
         </td>
         <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
-                style="width: 50px;height: 50px;" />
+                width=50 height=50 />
         </td>
         <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-                style="width: 50px;height: 50px;" />
+                width=50 height=50 />
         </td>
         <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"
-                style="width: 50px;height: 50px;" />
+                width=50 height=50 />
         </td>
         <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-                style="width: 50px;height: 50px;" />
-        </td>
-        <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
-                style="width: 50px;height: 50px;" />
+                width=50 height=50 />
         </td>
         <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
-                style="width: 50px;height: 50px;" />
+                width=50 height=50 />
+        </td>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=50 height=50 />
+        </td>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width=50 height=50/>
+        </td>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width=50 height=50/>
+        </td>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" width=50 height=50/>
         </td>
     </tr>
     <tr>
         <th>Javascript</th>
         <th>Python</th>
         <th>Golang</th>
+        <th>C++</th>
         <th>Php</th>
         <th>Java</th>
         <th>Ruby</th>
         <th>C</th>
-        <th>C++</th>
         <th>CSharp</th>
-    </tr>
-</table>
-
-### Mobile Development
-
-<table>
-    <tr>
-        <td>
-             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
-                style="width: 50px;height: 50px;" />
-        </td>
-        <td>
-             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-                style="width: 50px;height: 50px;" />
-        </td>
-    </tr>
-    <tr>
-         <th>Flutter</th>
-        <th>React Native</th>
+        <th>TypeScript</th>
+        <th>Swift</th>
+        <th>Rust</th>
+        <th>Perl</th>
     </tr>
 </table>
 
 ### Front-End Development
-<table>
+<table style="text-align: center;">
     <tr>
         <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-                style="width: 50px;height: 50px;" />
+                width=50 height=50 />
         </td>
         <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-                style="width: 50px;height: 50px;" />
+                width=50 height=50 />
         </td>
         <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-                style="width: 50px;height: 50px;" />
+                width=50 height=50 />
         </td>
         <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
-                style="width: 50px;height: 50px;" />
+                width=50 height=50 />
         </td>
         <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-                style="width: 50px;height: 50px;" />
+                width=50 height=50 />
+        </td>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width=50 height=50/>
         </td>
     </tr>
     <tr>
@@ -113,38 +116,54 @@ discoveries, and expertise with you.
         <th>Javascript</th>
         <th>Bootstrap</th>
         <th>React</th>
+        <th>Angular</th>
     </tr>
 </table>
 
 ### Back-End Development
-<table>
+<table style="text-align: center;">
     <tr>
         <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-                style="width: 50px;height: 50px;" />
+                width=50 height=50 />
         </td>
         <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-                style="width: 50px;height: 50px;" />
+                width=50 height=50 />
         </td>
         <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
-                style="width: 50px;height: 50px;" />
+                width=50 height=50 />
         </td>
         <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-                style="width: 50px;height: 50px;" />
+                width=50 height=50 />
         </td>
         <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg"
-                style="width: 50px;height: 50px;" />
+                width=50 height=50 />
         </td>
         <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg"
-                style="width: 50px;height: 50px;" />
+                width=50 height=50 />
         </td>
          <td>
-           <b><%- ejs %></b>
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width=50 height=50 />
+        </td>
+         <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width=50 height=50 />
+        </td>
+        <td>
+           <img src="https://ejs.co/favicon.svg">
+        </td>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" />
+        </td>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
+        </td>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width=50 height=50/>
         </td>
     </tr>
     <tr>
@@ -154,25 +173,33 @@ discoveries, and expertise with you.
         <th>Express</th>
         <th>Django</th>
         <th>Flask</th>
+        <th>FastAPI</th>
+        <th>GraphQL</th>
         <th>Ejs</th>
+        <th>Handlebars</th>
+        <th>Nginx</th>
+        <th>Socket.IO</th>
     </tr>
 </table>
 
 ### Desktop app Developemnt CLI/GUI
-<table>
+<table style="text-align: center;">
     <tr>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-                style="width: 50px;height: 50px;" /></td>
+                width=50 height=50 /></td>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg"
-                style="width: 50px;height: 50px;" /></td>
+                width=50 height=50 /></td>
         <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-                style="width: 50px;height: 50px;" /></td>
+                width=50 height=50 /></td>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
-                style="width: 50px;height: 50px;" /></td>
+                width=50 height=50 /></td>
         <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"
-                style="width: 50px;height: 50px;" /></td>
+                width=50 height=50 /></td>
         <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-                style="width: 50px;height: 50px;" /></td>
+                width=50 height=50 /></td>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"  width=50 height=50/>
+        </td>
     </tr>
     <tr>
         <th>Nodejs</th>
@@ -181,18 +208,42 @@ discoveries, and expertise with you.
         <th>C++</th>
         <th>Golang</th>
         <th>Java</th>
+        <th>Dotnet</th>
+    </tr>
+</table>
+
+### Mobile Development
+
+<table style="text-align: center;">
+    <tr>
+        <td>
+             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
+                width=50 height=50 />
+        </td>
+        <td>
+             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+                width=50 height=50 />
+        </td>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+        </td>
+    </tr>
+    <tr>
+         <th>Flutter</th>
+        <th>R-Native</th>
+        <th>Kotlin</th>
     </tr>
 </table>
 
 ### Database
-<table>
+<table style="text-align: center;">
     <tr>
         <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-                style="width: 50px;height: 50px;" /></td>
+                width=50 height=50 /></td>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
-                style="width: 50px;height: 50px;" /></td>
+                width=50 height=50 /></td>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"
-                style="width: 50px;height: 50px;" />
+                width=50 height=50 />
         </td>
     </tr>
     <tr>
@@ -202,14 +253,34 @@ discoveries, and expertise with you.
     </tr>
 </table>
 
+### AI and ML
+<table style="text-align: center;">
+    <tr>
+        <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width=50 height=50/>
+        </td>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width=50 height=50/>
+        </td>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width=50 height=50/>
+        </td>
+    </tr>
+    <tr>
+        <th>Pytorch</th>
+        <th>Tensorflow</th>
+        <th>OpenCV</th>
+    </tr>
+</table>
+
 ### Hardware and IOT
 
-<table>
+<table style="text-align: center;">
     <tr>
         <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"
-                style="width: 50px;height: 50px;" /></td>
+                width=50 height=50 /></td>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"
-                style="width: 50px;height: 50px;" /></td>
+                width=50 height=50 /></td>
     </tr>
     <tr>
         <th>Arduino</th>
@@ -218,21 +289,27 @@ discoveries, and expertise with you.
 </table>
 
 ### Others
-<table>
+<table style="text-align: center;">
     <tr>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"
-                style="width: 50px;height: 50px;" /></td>
+                width=50 height=50 /></td>
         <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-                style="width: 50px;height: 50px;" /></td>
+                width=50 height=50 /></td>
         <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-                style="width: 50px;height: 50px;" />
+                width=50 height=50 />
         </td>
         <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
-                style="width: 50px;height: 50px;" /></td>
+                width=50 height=50 /></td>
         <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
-                style="width: 50px;height: 50px;" />
+                width=50 height=50 />
+        </td>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width=50 height=50/>
+        </td>
+         <td>
+            <img src="https://icons8.com/vue-static/landings/lunacy-new/favicon-64.png" width=50 height=50/>
         </td>
     </tr>
     <tr>
@@ -241,5 +318,7 @@ discoveries, and expertise with you.
         <th>Git</th>
         <th>Bash</th>
         <th>Linux</th>
+        <th>Adobe XD (Design)</th>
+        <th>Lunacy (Design)</th>
     </tr>
 </table>
