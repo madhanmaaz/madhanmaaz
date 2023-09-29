@@ -67,13 +67,13 @@ discoveries, and expertise with you.
         <th>Javascript</th>
         <th>Python</th>
         <th>Golang</th>
-        <th>C++</th>
+        <th> C++ </th>
         <th>Php</th>
         <th>Java</th>
         <th>Ruby</th>
-        <th>C</th>
+        <th>  C  </th>
         <th>CSharp</th>
-        <th>TS</th>
+        <th>TypeScript</th>
         <th>Swift</th>
         <th>Rust</th>
     </tr>
