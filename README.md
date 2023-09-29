@@ -76,7 +76,7 @@ discoveries, and expertise with you.
         <th>Ruby</th>
         <th>C</th>
         <th>CSharp</th>
-        <th>TypeScript</th>
+        <th>TS</th>
         <th>Swift</th>
         <th>Rust</th>
         <th>Perl</th>
