@@ -56,12 +56,6 @@ discoveries, and expertise with you.
         <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=50 height=50 />
         </td>
-        <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width=50 height=50/>
-        </td>
-        <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width=50 height=50/>
-        </td>
     </tr>
     <tr>
         <th>Javascript</th>
@@ -74,8 +68,6 @@ discoveries, and expertise with you.
         <th>  C  </th>
         <th>CSharp</th>
         <th>TypeScript</th>
-        <th>Swift</th>
-        <th>Rust</th>
     </tr>
 </table>
 
@@ -102,9 +94,6 @@ discoveries, and expertise with you.
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
                 width=50 height=50 />
         </td>
-        <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width=50 height=50/>
-        </td>
     </tr>
     <tr>
         <th>Html</th>
@@ -112,7 +101,6 @@ discoveries, and expertise with you.
         <th>Javascript</th>
         <th>Bootstrap</th>
         <th>React</th>
-        <th>Angular</th>
     </tr>
 </table>
 
@@ -185,9 +173,6 @@ discoveries, and expertise with you.
                 width=50 height=50 /></td>
         <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
                 width=50 height=50 /></td>
-        <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"  width=50 height=50/>
-        </td>
     </tr>
     <tr>
         <th>Nodejs</th>
@@ -196,7 +181,6 @@ discoveries, and expertise with you.
         <th>C++</th>
         <th>Golang</th>
         <th>Java</th>
-        <th>Dotnet</th>
     </tr>
 </table>
 
@@ -212,14 +196,10 @@ discoveries, and expertise with you.
              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
                 width=50 height=50 />
         </td>
-        <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-        </td>
     </tr>
     <tr>
          <th>Flutter</th>
         <th>R-Native</th>
-        <th>Kotlin</th>
     </tr>
 </table>
 
