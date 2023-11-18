@@ -120,15 +120,15 @@ discoveries, and expertise with you.
                 width=50 height=50 />
         </td>
         <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+            <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/8d565/express-js.webp"
                 width=50 height=50 />
         </td>
         <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg"
+            <img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png"
                 width=50 height=50 />
         </td>
         <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg"
+            <img src="https://mimic-yo.glitch.me/mimic/ff690a49-acb6-4c01-b238-d3e12e5a9b14/hjieh24f0kpcwfi9eiau.jpg"
                 width=50 height=50 />
         </td>
          <td>
@@ -141,7 +141,7 @@ discoveries, and expertise with you.
            <img src="https://ejs.co/favicon.svg">
         </td>
         <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width=50 height=50/>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/800px-Socket-io.svg.png" width=50 height=50/>
         </td>
     </tr>
     <tr>
@@ -196,10 +196,14 @@ discoveries, and expertise with you.
              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
                 width=50 height=50 />
         </td>
+        <td>  
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width=50 height=50/>
+        </td>
     </tr>
     <tr>
          <th>Flutter</th>
         <th>R-Native</th>
+        <th>Kotlin</th>
     </tr>
 </table>
 
