@@ -102,10 +102,6 @@ discoveries, and expertise with you.
             <img src="./icons/socket.io.png" width=50 height=50/>
         </td>
         <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-                width=50 height=50 />
-        </td>
-        <td>
             <img src="./icons/flask.png" width=50 height=50/>
         </td>
         <td>
@@ -120,7 +116,6 @@ discoveries, and expertise with you.
         <th>Nodejs</th>
         <th>ExpressJs</th>
         <th>Socket.io</th>
-        <th>Python</th>
         <th>Flask</th>
         <th>FastAPI</th>
         <th>Php</th>
