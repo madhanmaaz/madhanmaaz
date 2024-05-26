@@ -38,10 +38,6 @@ discoveries, and expertise with you.
                 width=50 height=50 />
         </td>
         <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"
-                width=50 height=50 />
-        </td>
-        <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
                 width=50 height=50 />
         </td>
@@ -52,7 +48,6 @@ discoveries, and expertise with you.
         <th>Golang</th>
         <th> C++ </th>
         <th>Php</th>
-        <th>Ruby</th>
         <th>  C  </th>
     </tr>
 </table>
