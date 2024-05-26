@@ -73,6 +73,9 @@ discoveries, and expertise with you.
                 width=50 height=50 />
         </td>
         <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width=50 height=50 />
+        </td>
+        <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bulma/bulma-plain.svg" width=50 height=50/>
         </td>
         <td>
@@ -84,6 +87,7 @@ discoveries, and expertise with you.
         <th>Html</th>
         <th>Css</th>
         <th>Javascript</th>
+        <th>Bootstrap</th>
         <th>Bulma</th>
         <th>React</th>
     </tr>
