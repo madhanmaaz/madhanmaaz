@@ -204,7 +204,7 @@ discoveries, and expertise with you.
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/puppeteer/puppeteer-original.svg" width=50 height=50/>
         </td>
         <td>
-            <img src="./icons/glitch.png" width=50 height=50/>
+            <img src="./icons/glitch-i.png" width=50 height=50/>
         </td>
     </tr>
     <tr>
