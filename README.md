@@ -203,11 +203,15 @@ discoveries, and expertise with you.
         <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/puppeteer/puppeteer-original.svg" width=50 height=50/>
         </td>
+        <td>
+            <img src="./icons/glitch.png" width=50 height=50/>
+        </td>
     </tr>
     <tr>
         <th>Docker</th>
         <th>Git</th>
         <th>Netlify</th>
         <th>Puppeteer</th>
+        <th>Glitch</th>
     </tr>
 </table>
