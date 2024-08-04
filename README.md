@@ -12,7 +12,7 @@
 With a passion for unraveling the mysteries of cyber threats and vulnerabilities, I'm here to share my insights,
 discoveries, and expertise with you.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhanmaaz&layout=compact&langs_count=20">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhanmaaz&layout=compact&langs_count=20" width="100%" height="400px">
 
 ### Programming Languages
 <table style="text-align: center;">
