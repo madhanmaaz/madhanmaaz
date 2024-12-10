@@ -1,11 +1,8 @@
 <img src="./pro-banner.gif" align="right" width=300>
 
 ### Hi there 👋
-- 🌱 I’m currently learning bug bounty
-- 💬 Ask me about bug bounty / hacking
+- 💬 Ask me about hacking
 - 📫 How to reach me: https://madhanmaaz.netlify.app
-- 😄 Pronouns: hacker
-- ⚡ Fun fact: --> hack the universe
 
 ### 🔐 Who Am I?
 - I'm Madhan, an ethical hacker and cybersecurity enthusiast, committed to making the internet a safer place for all.
