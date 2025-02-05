@@ -1,6 +1,6 @@
 <p align="center"><img src="./pro-banner.gif" width=300></p>
 
-### I'm Madhan, a hacker who sees, breaks, and stays ahead—always.
+#### I'm Madhan, a hacker who sees, breaks, and stays ahead—always.
 - Website https://madhanmaaz.netlify.app
 - HatStream https://madhanmaaz.glitch.me for chat
 
