@@ -1,189 +1,70 @@
 <img src="./pro-banner.gif" align="right" width=300>
 
-### Hi there 👋
-- 💬 Ask me about hacking
-- 📫 How to reach me: https://madhanmaaz.netlify.app
+#### I'm Madhan, a hacker who sees, breaks, and stays ahead—always.
+- Website https://madhanmaaz.netlify.app
+- HatStream https://madhanmaaz.glitch.me for chat
 
-### 🔐 Who Am I?
-- I'm Madhan, an ethical hacker and cybersecurity enthusiast, committed to making the internet a safer place for all.
-With a passion for unraveling the mysteries of cyber threats and vulnerabilities, I'm here to share my insights,
-discoveries, and expertise with you.
+### Find me on
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhanmaaz&layout=compact&langs_count=20" width="100%" height="400px">
+<div align="left">
+  <a href="https://www.youtube.com/@Madhanmaaz01" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/madhanmaaz/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/madhan-s-4418b5255/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-### Programming Languages
-<table style="text-align: center;">
-    <tr>
-        <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-                width=50 height=50 />
-        </td>
-        <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-                width=50 height=50 />
-        </td>
-        <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"
-                width=50 height=50 />
-        </td>
-         <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
-                width=50 height=50 />
-        </td>
-        <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
-                width=50 height=50 />
-        </td>
-        <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-                width=50 height=50 />
-        </td>
-    </tr>
-    <tr>
-        <th>Javascript</th>
-        <th>Python</th>
-        <th>Golang</th>
-        <th> C++ </th>
-        <th>Php</th>
-        <th>  C  </th>
-    </tr>
-</table>
 
-### Front-End Development
-<table style="text-align: center;">
-    <tr>
-        <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-                width=50 height=50 />
-        </td>
-        <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-                width=50 height=50 />
-        </td>
-        <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-                width=50 height=50 />
-        </td>
-        <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bulma/bulma-plain.svg" width=50 height=50/>
-        </td>
-        <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-                width=50 height=50 />
-        </td>
-    </tr>
-    <tr>
-        <th>Html</th>
-        <th>Css</th>
-        <th>Javascript</th>
-        <th>Bulma</th>
-        <th>React</th>
-    </tr>
-</table>
+### Programming & Tools
 
-### Back-End Development
-<table style="text-align: center;">
-    <tr>
-        <td>
-            <img src="./icons/express.png" width=50 height=50/>
-        </td>
-        <td>
-            <img src="./icons/flask.png" width=50 height=50/>
-        </td>
-        <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
-                width=50 height=50 />
-        </td>
-    </tr>
-    <tr>
-        <th>ExpressJs</th>
-        <th>Flask</th>
-        <th>Php</th>
-    </tr>
-</table>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" height="50" alt="bulma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="50" alt="electron logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="50" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="50" alt="socketio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="50" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
+</div>
 
-### Desktop app Developemnt CLI/GUI
-<table style="text-align: center;">
-    <tr>
-        <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width=50 height=50 />
-        </td>
-        <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=50 height=50 />
-        </td>
-        <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width=50 height=50 />
-        </td>
-        <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=50 height=50 />
-        </td>
-    </tr>
-    <tr>
-        <th>Electronjs</th>
-        <th>Python</th>
-        <th>Golang</th>
-        <th>C++</th>
-    </tr>
-</table>
+####
 
-### Mobile Development
-
-<table style="text-align: center;">
-    <tr>
-        <td>
-             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-                width=50 height=50 />
-        </td>
-    </tr>
-    <tr>
-        <th>React Native</th>
-    </tr>
-</table>
-
-### Database
-<table style="text-align: center;">
-    <tr>
-        <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width=50 height=50 />
-        </td>
-        <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width=50 height=50 />
-        </td>
-        <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width=50 height=50 />
-        </td>
-    </tr>
-    <tr>
-        <th>MongoDB</th>
-        <th>MySQL</td>
-        <th>Firebase</th>
-    </tr>
-</table>
-
-### Others
-<table style="text-align: center;">
-    <tr>
-        <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width=50 height=50 />
-        </td>
-        <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=50 height=50 />
-        </td>
-         <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" width=50 height=50/>
-        </td>
-        <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/puppeteer/puppeteer-original.svg" width=50 height=50/>
-        </td>
-        <td>
-            <img src="./icons/glitch-i.png" width=50 height=50/>
-        </td>
-    </tr>
-    <tr>
-        <th>Docker</th>
-        <th>Git</th>
-        <th>Netlify</th>
-        <th>Puppeteer</th>
-        <th>Glitch</th>
-    </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhanmaaz&layout=compact&langs_count=20">
