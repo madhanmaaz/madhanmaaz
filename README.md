@@ -65,9 +65,6 @@ discoveries, and expertise with you.
                 width=50 height=50 />
         </td>
         <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width=50 height=50 />
-        </td>
-        <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bulma/bulma-plain.svg" width=50 height=50/>
         </td>
         <td>
@@ -79,7 +76,6 @@ discoveries, and expertise with you.
         <th>Html</th>
         <th>Css</th>
         <th>Javascript</th>
-        <th>Bootstrap</th>
         <th>Bulma</th>
         <th>React</th>
     </tr>
@@ -89,20 +85,10 @@ discoveries, and expertise with you.
 <table style="text-align: center;">
     <tr>
         <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-                width=50 height=50 />
-        </td>
-        <td>
             <img src="./icons/express.png" width=50 height=50/>
         </td>
         <td>
-            <img src="./icons/socket.io.png" width=50 height=50/>
-        </td>
-        <td>
             <img src="./icons/flask.png" width=50 height=50/>
-        </td>
-        <td>
-           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width=50 height=50 />
         </td>
         <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
@@ -110,11 +96,8 @@ discoveries, and expertise with you.
         </td>
     </tr>
     <tr>
-        <th>Nodejs</th>
         <th>ExpressJs</th>
-        <th>Socket.io</th>
         <th>Flask</th>
-        <th>FastAPI</th>
         <th>Php</th>
     </tr>
 </table>
@@ -122,9 +105,6 @@ discoveries, and expertise with you.
 ### Desktop app Developemnt CLI/GUI
 <table style="text-align: center;">
     <tr>
-        <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=50 height=50 />
-        </td>
         <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width=50 height=50 />
         </td>
@@ -139,7 +119,6 @@ discoveries, and expertise with you.
         </td>
     </tr>
     <tr>
-        <th>Nodejs</th>
         <th>Electronjs</th>
         <th>Python</th>
         <th>Golang</th>
@@ -155,13 +134,9 @@ discoveries, and expertise with you.
              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
                 width=50 height=50 />
         </td>
-        <td>  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width=50 height=50/>
-        </td>
     </tr>
     <tr>
-        <th>R-Native</th>
-        <th>Kotlin</th>
+        <th>React Native</th>
     </tr>
 </table>
 
