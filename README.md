@@ -1,6 +1,6 @@
 <p align="center"><img src="./pro-banner.gif" width=300></p>
 
-#### I'm Madhan, a hacker who sees, breaks, and stays ahead—always.
+**I'm Madhan, “Reality is just code. And I know how to rewrite it.”**
 - Website https://madhanmaaz.netlify.app
 - HatStream https://madhanmaaz.glitch.me for chat
 
@@ -51,6 +51,9 @@
   <img src="./icons/express.png" height="50" alt="express logo"  />
   <img width="12" />
   <img src="./icons/socket.io.png" height="50" alt="socketio logo"  />
+    <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="50"
+                        alt="mongodb" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" alt="mysql logo"  />
   <img width="12" />
@@ -58,13 +61,22 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/puppeteer/puppeteer-original.svg"  height="50" 
+                        alt="puppeteer" />
+<img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg"
+                        alt="netlify" height="50" />
+<img width="12" />
+<img src="./icons/glitch-i.png" height="50" alt="glitch logo"  />
+<img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="50" alt="windows8 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  /><img width="12" />
-  <img src="./icons/glitch-i.png" height="50" alt="flask logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
+
 </div>
+
 
 ####
 
